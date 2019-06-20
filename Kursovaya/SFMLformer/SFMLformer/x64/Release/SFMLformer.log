@@ -1,0 +1,11 @@
+﻿  game.cpp
+  main.cpp
+  picture.cpp
+  word.cpp
+word.cpp(14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+word.cpp(33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  All 216 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SFMLformer.vcxproj -> C:\Users\tolya\source\repos\Kursovaya1\SFMLformer\x64\Release\SFMLformer.exe
+  SFMLformer.vcxproj -> C:\Users\tolya\source\repos\Kursovaya1\SFMLformer\x64\Release\SFMLformer.pdb (Full PDB)
